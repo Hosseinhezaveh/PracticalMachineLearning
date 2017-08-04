@@ -1,3 +1,4 @@
+setwd("~/Coursera/Practical Machine Learning/")
 ## Preparation
 ### Load libraries and data-sets for the work.
 library(caret)
